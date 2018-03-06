@@ -1,1 +1,0 @@
-Start-Process -WindowStyle Minimized "iexplore.exe" "www.google.com"
